@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+---To go forward you must  look back
 Use the left arrow to go back!
